@@ -10,4 +10,5 @@
  
 - Kaggle Notebook: https://www.kaggle.com/code/nilajit/ml-ops-assignment2
 - Hugging Face model: https://huggingface.co/Nilajit/ML_OPS_Assignment2_distilbert-goodreads-genres
-- W&B dashboard: https://api.wandb.ai/links/g25ait2069-indian-institute-of-technology-jodhpur/lxiqknei 
+- W&B Dashboard: https://wandb.ai/g25ait2069-indian-institute-of-technology-jodhpur/ML_OPS_Assignment2?nw=nwuserg25ait2069
+- W&B report: https://api.wandb.ai/links/g25ait2069-indian-institute-of-technology-jodhpur/lxiqknei 
